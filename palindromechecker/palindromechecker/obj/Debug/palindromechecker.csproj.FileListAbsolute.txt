@@ -1,0 +1,7 @@
+C:\Users\jovan\OneDrive\Desktop\HW1\palindromechecker\palindromechecker\bin\Debug\palindromechecker.exe.config
+C:\Users\jovan\OneDrive\Desktop\HW1\palindromechecker\palindromechecker\bin\Debug\palindromechecker.exe
+C:\Users\jovan\OneDrive\Desktop\HW1\palindromechecker\palindromechecker\bin\Debug\palindromechecker.pdb
+C:\Users\jovan\OneDrive\Desktop\HW1\palindromechecker\palindromechecker\obj\Debug\palindromechecker.csproj.CoreCompileInputs.cache
+C:\Users\jovan\OneDrive\Desktop\HW1\palindromechecker\palindromechecker\obj\Debug\palindromechecker.exe
+C:\Users\jovan\OneDrive\Desktop\HW1\palindromechecker\palindromechecker\obj\Debug\palindromechecker.pdb
+C:\Users\jovan\OneDrive\Desktop\HW1\palindromechecker\palindromechecker\obj\Debug\palindromechecker.csproj.AssemblyReference.cache

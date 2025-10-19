@@ -5,19 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-<<<<<<< HEAD
-[assembly: AssemblyTitle("prac3")]
+[assembly: AssemblyTitle("PrimeComposite")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("prac3")]
-=======
-[assembly: AssemblyTitle("HW3")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HW3")]
->>>>>>> 344466c08765ff6cdf3d64b1340971aaeed7cab1
+[assembly: AssemblyProduct("PrimeComposite")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -28,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-<<<<<<< HEAD
-[assembly: Guid("0290a7a5-97bf-4900-a549-504b75a95d47")]
-=======
-[assembly: Guid("81c083a0-3ca2-434f-b1b9-2195f7ee691f")]
->>>>>>> 344466c08765ff6cdf3d64b1340971aaeed7cab1
+[assembly: Guid("e3fefc75-7e1a-4538-98f3-076a3870c666")]
 
 // Version information for an assembly consists of the following four values:
 //

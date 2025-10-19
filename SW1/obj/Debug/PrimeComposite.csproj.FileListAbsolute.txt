@@ -1,0 +1,7 @@
+C:\Users\jovan\OneDrive\Desktop\jov\PrimeComposite\PrimeComposite\bin\Debug\PrimeComposite.exe.config
+C:\Users\jovan\OneDrive\Desktop\jov\PrimeComposite\PrimeComposite\bin\Debug\PrimeComposite.exe
+C:\Users\jovan\OneDrive\Desktop\jov\PrimeComposite\PrimeComposite\bin\Debug\PrimeComposite.pdb
+C:\Users\jovan\OneDrive\Desktop\jov\PrimeComposite\PrimeComposite\obj\Debug\PrimeComposite.csproj.AssemblyReference.cache
+C:\Users\jovan\OneDrive\Desktop\jov\PrimeComposite\PrimeComposite\obj\Debug\PrimeComposite.csproj.CoreCompileInputs.cache
+C:\Users\jovan\OneDrive\Desktop\jov\PrimeComposite\PrimeComposite\obj\Debug\PrimeComposite.exe
+C:\Users\jovan\OneDrive\Desktop\jov\PrimeComposite\PrimeComposite\obj\Debug\PrimeComposite.pdb
